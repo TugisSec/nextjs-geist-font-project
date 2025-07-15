@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error_invalid_expression">Invalid Expression</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+</resources>
